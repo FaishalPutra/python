@@ -4,7 +4,7 @@
 ## Daftar isi
 1. [Deskripsi](#Deskripsi)
 2. [Fitur](#Fitur)
-3. [Teknologi yang digunakan](Teknologi-yang-digunakan)
+3. [Teknologi yang digunakan](#Teknologi-yang-digunakan)
 4. [Instalasi dan penggunaan](#Instalasi-dan-penggunaan)
 5. [Tim penyusun](#Tim-penyusun)
 
